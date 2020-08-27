@@ -13,3 +13,6 @@ I've done a lot of researching on service companies during my job search in the 
 * [AdNovum](https://www.adnovum.ch/)
 * [Maison du Software](https://maisondu.software/)
 * [Emineo](https://www.emineo.ch/)
+* [Puzzle](https://www.puzzle.ch/de/home)
+* [Trivadis](https://www.trivadis.com/de/)
+* [Ti&M](https://www.ti8m.com/)
