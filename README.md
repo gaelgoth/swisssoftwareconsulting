@@ -1,8 +1,8 @@
 # Swiss Software Consulting
 
-I've done a lot of researching during my job search in the past. This list is meant for aspiring software engineers / consultants. Hope it helps you in your quest for the right company!
+I've done a lot of researching on service companies during my job search in the past. This list is meant for aspiring software engineers / consultants. Hope it helps you in your quest!
 
-* [ELCA)[https://www.elca.ch/en)
+* [ELCA](https://www.elca.ch/en)
 * [Zühlke](https://www.zuehlke.com/en)
 * [Finnova](https://www.finnova.com/en/home-en.html)
 * [CISTEC](https://www.cistec.com/)
