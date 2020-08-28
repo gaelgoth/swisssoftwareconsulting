@@ -14,6 +14,7 @@ I've done a lot of researching on service companies during my job search in the 
 * [Maison du Software](https://maisondu.software/)
 * [Emineo](https://www.emineo.ch/)
 * [Puzzle](https://www.puzzle.ch/de/home)
+* [Avaloq](https://www.avaloq.com/en/home)
 * [Trivadis](https://www.trivadis.com/de/)
 * [Ti&M](https://www.ti8m.com/)
 * [Garaio](https://www.garaio-rem.ch/)
