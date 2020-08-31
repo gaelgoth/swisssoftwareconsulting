@@ -18,3 +18,4 @@ I've done a lot of researching on service companies during my job search in the 
 * [Trivadis](https://www.trivadis.com/de/)
 * [Ti&M](https://www.ti8m.com/)
 * [Garaio](https://www.garaio-rem.ch/)
+* [Duagon](https://www.duagon.com/)
