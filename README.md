@@ -1,6 +1,6 @@
 # Swiss Software Consulting
 
-I've done a lot of researching on service companies during my job search in the past. This list is meant for aspiring UX designers, web developers, (embedded) software engineers, project managers and consultants. Hope it helps you in your quest!
+I've done a lot of researching on service companies during my job search in the past. This list is meant for aspiring UX designers, web developers, (embedded) software engineers, project managers, DevOps engineers, database administrators and consultants. Hope it helps you in your quest!
 
 * [ELCA](https://www.elca.ch/en)
 * [Zühlke](https://www.zuehlke.com/en)
