@@ -5,7 +5,6 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [ELCA](https://www.elca.ch/en)
 * [Zühlke](https://www.zuehlke.com/en)
 * [Finnova](https://www.finnova.com/en/home-en.html)
-* [CISTEC](https://www.cistec.com/)
 * [M & S Software Engineering](https://www.m-s.ch/)
 * [ERNI Consulting](https://www.betterask.erni/)
 * [Accenture](https://www.accenture.com/ch-en)
