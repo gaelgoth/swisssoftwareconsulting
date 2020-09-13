@@ -18,3 +18,4 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Ti&M](https://www.ti8m.com/)
 * [Garaio](https://www.garaio-rem.ch/)
 * [Duagon](https://www.duagon.com/)
+* [Comerge](https://www.comerge.net/en/)
