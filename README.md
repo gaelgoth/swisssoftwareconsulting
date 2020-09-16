@@ -7,7 +7,7 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Finnova](https://www.finnova.com/en/home-en.html)
 * [M & S Software Engineering](https://www.m-s.ch/)
 * [ERNI Consulting](https://www.betterask.erni/)
-* [Accenture](https://www.accenture.com/ch-en)
+* [Accenture Switzerland](https://www.accenture.com/ch-en)
 * [Netcetera](https://www.netcetera.com/home.html)
 * [AdNovum](https://www.adnovum.ch/)
 * [Maison du Software](https://maisondu.software/)
@@ -19,3 +19,4 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Garaio](https://www.garaio-rem.ch/)
 * [Duagon](https://www.duagon.com/)
 * [Comerge](https://www.comerge.net/en/)
+* [Atos Switzerland](https://jobs.atos.net/go/Jobs-in-Switzerland/3687201/)
