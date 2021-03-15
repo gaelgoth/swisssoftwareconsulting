@@ -10,7 +10,6 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Accenture Switzerland](https://www.accenture.com/ch-en)
 * [Netcetera](https://www.netcetera.com/home.html)
 * [AdNovum](https://www.adnovum.ch/)
-* [Maison du Software](https://maisondu.software/)
 * [Emineo](https://www.emineo.ch/)
 * [Puzzle](https://www.puzzle.ch/de/home)
 * [Avaloq](https://www.avaloq.com/en/home)
@@ -20,4 +19,3 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Duagon](https://www.duagon.com/)
 * [Comerge](https://www.comerge.net/en/)
 * [Atos Switzerland](https://jobs.atos.net/go/Jobs-in-Switzerland/3687201/)
-* [BSI Software](https://www.bsi-software.com/ch-de/home.html)
