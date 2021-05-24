@@ -19,3 +19,4 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Duagon](https://www.duagon.com/)
 * [Comerge](https://www.comerge.net/en/)
 * [Atos Switzerland](https://jobs.atos.net/go/Jobs-in-Switzerland/3687201/)
+* [Comfone](https://www.comfone.com/)
