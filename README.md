@@ -21,3 +21,4 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Atos Switzerland](https://jobs.atos.net/go/Jobs-in-Switzerland/3687201/)
 * [Comfone](https://www.comfone.com/)
 * [IBM Client Innovation Center Switzerland](https://www.ibm.com/employment/ciceurope/ch-en)
+* [Inventage](https://inventage.com/)
