@@ -24,3 +24,4 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [Inventage](https://inventage.com/)
 * [Ergon Informatik](https://ergon.ch/de)
 * [Swisscom Banking](https://www.swisscom.ch/en/business/enterprise/offer/banking.html)
+* [Inventx](https://inventx.ch/)
