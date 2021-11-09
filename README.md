@@ -23,3 +23,4 @@ I've done a lot of researching on service companies (with smaller specialized wo
 * [IBM Client Innovation Center Switzerland](https://www.ibm.com/employment/ciceurope/ch-en)
 * [Inventage](https://inventage.com/)
 * [Ergon Informatik](https://ergon.ch/de)
+* [Swisscom Banking](https://www.swisscom.ch/en/business/enterprise/offer/banking.html)
