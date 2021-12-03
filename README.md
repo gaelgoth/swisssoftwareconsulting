@@ -29,3 +29,5 @@ The list below is meant for UX designers, web developers, (embedded) software en
 * [Ergon Informatik](https://ergon.ch/de)
 * [Swisscom Banking](https://www.swisscom.ch/en/business/enterprise/offer/banking.html)
 * [Inventx](https://inventx.ch/)
+
+Note: Since most companies listed here deal with national clients German skills might be a prequiresite for getting hired (B2 level proficiency).
