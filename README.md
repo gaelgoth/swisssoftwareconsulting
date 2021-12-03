@@ -1,6 +1,6 @@
 # Swiss Software Consulting
 
-Switzerland offers great comfort, excellent infrastructure, quality living and square working conditions. It has a beautiful landscape where leisure activities for the summer and winter abound. Although mainly known for its finance and pharma industry many giant tech companies are looking to expand here. They have been opening new offices since 2013 and are recruiting talent in Switzerland. This includes Facebook, Apple, Microsoft, Oracle, Sony, Huawei, GitHub and Zalando. Moreover, Google's largest office in Europe is in Zurich!
+Switzerland offers great comfort, excellent infrastructure, quality living and square working conditions. It has a beautiful landscape where leisure activities for the summer and winter abound. Although mainly known for its finance and pharma industry many giant tech companies are looking to expand here. They have been opening new offices since 2013 and are recruiting talent in Switzerland. This includes Facebook, Apple, Microsoft, Oracle, Sony, Huawei, GitHub, Twitter and Zalando. Moreover, Google's largest office in Europe is in Zurich!
 
 Product companies aside, I've done a lot of researching on service companies (with smaller specialized workforce) during my job search in the past. In contrast to product companies service companies offer client exposure and higher adaptability. You also get to see many different aspects of the same work and study new industries and their challenges. Service companies also adopt latest technologies and tools early on - simply because they are trendy and cool.
 
