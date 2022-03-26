@@ -32,4 +32,4 @@ The list below is meant for UX designers, web developers, (embedded) software en
 * [Swisscom Banking](https://www.swisscom.ch/en/business/enterprise/offer/banking.html)
 * [Inventx](https://inventx.ch/)
 
-Note: Since most companies listed here deal with national clients German skills might be a prequiresite for getting hired (B2 level proficiency).
+Note: Since most companies listed here deal with national clients German skills might be a prerequisite for getting hired (B2 level proficiency).
