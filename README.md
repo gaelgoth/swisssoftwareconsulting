@@ -1,4 +1,6 @@
 # Swiss Software Consulting
+<img src="https://i.ibb.co/4dXSSxb/IMG-20200801-152022.jpg" alt="Switzerland">
+
 
 Switzerland offers great comfort, excellent infrastructure, quality living and square working conditions. It has a beautiful landscape where leisure activities for the summer and winter abound. Although mainly known for its finance and pharma industry many giant tech companies are looking to expand here. They have been opening new offices since 2013 and are recruiting talent in Switzerland. This includes Facebook, Apple, Microsoft, Oracle, Sony, Huawei, GitHub, Twitter and Zalando. Moreover, Google's largest office in Europe is in Zurich!
 
