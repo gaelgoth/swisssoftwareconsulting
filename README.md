@@ -1,4 +1,4 @@
-# Swiss Software Consulting
+# Swiss Software & IT Consulting
 <img src="https://i.ibb.co/4dXSSxb/IMG-20200801-152022.jpg" alt="Switzerland">
 
 
