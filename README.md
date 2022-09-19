@@ -6,7 +6,7 @@ Switzerland offers great comfort, excellent infrastructure, quality living and s
 
 Product companies aside, I've done a lot of researching on service companies during my job search in the past. In contrast to product companies service companies offer client exposure and higher adaptability. They have a smaller but much more specialized workforce. You get to see many different aspects of the same work and study new industries and their challenges. Service companies are also smaller and nimble. They adopt the latest technologies and tools early on. This allows them to provide the latest and most profitable solution for their clients.
 
-The list below is meant for UX designers, web developers, (embedded) software engineers, project managers, DevOps engineers, database administrators and consultants who wish to broaden their horizon, grow their technical skills and work for a fast-growing constantly evolving market.
+Here's a curation of services companies in Switzerland. It is meant for UX designers, web developers, (embedded) software engineers, project managers, DevOps engineers, database administrators and consultants who wish to broaden their horizon, grow their technical skills and work for a fast-growing constantly evolving market.
 
 * [ELCA](https://www.elca.ch/en)
 * [Zühlke](https://www.zuehlke.com/en)
