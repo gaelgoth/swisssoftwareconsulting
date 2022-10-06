@@ -29,7 +29,6 @@ Here's a curation of services companies in Switzerland. It is meant for UX desig
 * [IBM Client Innovation Center Switzerland](https://www.ibm.com/employment/ciceurope/ch-en)
 * [Inventage](https://inventage.com/)
 * [Ergon Informatik](https://ergon.ch/de)
-* [Swisscom Banking](https://www.swisscom.ch/en/business/enterprise/offer/banking.html)
 * [Inventx](https://inventx.ch/)
 * [BSI](https://www.bsi-software.com/de-ch)
 * [Simalex](https://www.simalex.ch/)
