@@ -10,7 +10,6 @@ Here's a curation of services companies in Switzerland. It is meant for UX desig
 
 * [ELCA](https://www.elca.ch/en)
 * [Zühlke](https://www.zuehlke.com/en)
-* [Finnova](https://www.finnova.com/en/home-en.html)
 * [M & S Software Engineering](https://www.m-s.ch/)
 * [ERNI Consulting](https://www.betterask.erni/)
 * [Accenture Switzerland](https://www.accenture.com/ch-en)
